@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Сайт любителей иностранных автомобилей</title>
+
+    <!--Ссылка на CSS-файл-->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+  </head>
+
+<body text="#ffffff" >
+  <div class="container">
+    <header>
+      <div class="header-container">
+        <h2>Сайт иномарок</h2>
+        <img src="images/logo.jpg" class="logo" alt="Логотип" width="10%">
+      </div>
+        <hr>
+    </header>
+        <nav class="main-menu">
+          <a href="index.html" class="nav-button">Главная</a>
+        </nav>
+        <div class="info-block">
+        </nav>
+        <div class="info-block">
+          <h3 align="center">Главное</h3>
+          <p>Toyota HiAce (H50) 1987 года выпуска с дизельным двигателем объёмом 2,4 литра и мощностью 82 лошадиные силы, задним приводом и механической коробкой передач. 
+
+Некоторые характеристики модели:
+Размеры кузова: длина — 4690 мм, ширина — 1690 мм, высота — 1950 мм, колёсная база — 2495 мм, клиренс — 200 мм.
+Объём топливного бака: 70 л.
+Снаряжённая масса: 1550 кг.
+Тип передней подвески: независимая, пружинная.
+Тип задней подвески: зависимая, пружинная.
+Передние тормоза: барабанные.
+          </p>
+</html>
